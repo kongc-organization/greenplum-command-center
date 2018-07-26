@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.exe
+*.exe~
+*.orig
+test.main
+.*.swp
+.DS_Store
+${SSH*}
+${SSH*}.bak
+*.tar
+_site/*
